@@ -18,4 +18,5 @@ This project involves analyzing Zomato data using Python to extract meaningful i
 2. Install the required Python libraries using:
 ```bash
 pip install numpy pandas matplotlib seaborn
-3. Run the analysis
+pip install jupyter
+
